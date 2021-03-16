@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-# Student: Ian Weber [weber.595@osu.edu]
-# Date: November 5, 2015
-# Assignment: CSE3461 Lab 4 (server part)
-
 import socket
 import socket
 import sys
