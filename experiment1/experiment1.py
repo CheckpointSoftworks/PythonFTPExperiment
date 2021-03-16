@@ -1,12 +1,8 @@
 #!/usr/bin/env python
 
-# Student: Ian Weber [weber.595@osu.edu]
-# Date: September 8, 2015
-# Assignment: CSE3461 Lab 1
-# Instructor: Adam Champion, 2:20 PM Section
 # Description: This python program looks to copy a file of arbitrary size
 #              using a byte buffer, and puts the new copy in a directory.  
-# Run command: python3 lab1.py filename
+# Run command: python3 experiment1.py filename
 
 # Imports:
 import sys
