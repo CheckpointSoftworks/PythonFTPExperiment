@@ -1,10 +1,5 @@
 #!/usr/bin/env python
 
-# Student: Ian Weber [weber.595@osu.edu]
-# Date: September 17, 2015
-# Assignment: CSE3461 Lab 2 (client part)
-
-
 # Echo client program
 import socket
 import sys
